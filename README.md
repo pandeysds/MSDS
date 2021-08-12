@@ -1,5 +1,5 @@
 # MSDS
-## Into to Github
+## Intro to Github
 One  
 Two  
 Three  
